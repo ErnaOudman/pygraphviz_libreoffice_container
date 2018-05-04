@@ -1,2 +1,4 @@
 # pygraphviz_libreoffice_container
-Docker container with pygraphiz and libreoffice installed
+Docker container with MiniConda PyGraphviz and LibreOffice installed.
+
+Created to run tests on CircleCI faster.
